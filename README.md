@@ -39,7 +39,7 @@ docker run -p 8000:8000 Backend
 5. The app is running, now all you have to do is to open your browser and type:
 
 ```
-http://localhost:8000
+http://localhost:8000/
 ```
 
 ## Technologies
