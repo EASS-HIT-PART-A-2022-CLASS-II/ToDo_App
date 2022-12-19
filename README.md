@@ -14,11 +14,11 @@ Using the app, you will be able to manage your tasks by:
 ### Instructions
 1. Open CMD/Terminal and run the following command:
 
-> git clone https://github.com/EASS-HIT-PART-A-2022-CLASS-II/ToDo_App
+[git clone https://github.com/EASS-HIT-PART-A-2022-CLASS-II/ToDo_App]
 
 2. Then go inside the ToDo_App folder:
 
-[MIT](cd ToDo_App)
+[cd ToDo_App]
 
 3. 
 
