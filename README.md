@@ -1,7 +1,7 @@
 # ToDo App
 Get organized and keep track of all the tasks you need to do with the ToDo app
 
-#Features
+# Features
 Using the app, you will be able to manage your tasks by:
 
 - Adding new tasks
@@ -10,9 +10,9 @@ Using the app, you will be able to manage your tasks by:
 
 - Deleting completed tasks
 
-#How to run the app
+# How to run the app
 
-#Technologies
+# Technologies
 This app was built with the following technologies:
 
 - Backend: FastAPI (Python)
