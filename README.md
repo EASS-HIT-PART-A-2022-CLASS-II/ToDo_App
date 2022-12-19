@@ -16,12 +16,13 @@ Using the app, you will be able to manage your tasks by:
 
 ```
 git clone https://github.com/EASS-HIT-PART-A-2022-CLASS-II/ToDo_App
-
 ```
 
 2. Then go inside the ToDo_App folder:
 
-[cd ToDo_App]
+```
+cd ToDo_App
+```
 
 3. 
 
