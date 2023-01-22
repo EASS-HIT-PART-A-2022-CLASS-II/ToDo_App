@@ -15,31 +15,25 @@ Using the app, you will be able to manage your tasks by:
 1. Open CMD/Terminal and run the following command:
 
 ```
-git clone https://github.com/EASS-HIT-PART-A-2022-CLASS-II/ToDo_App
+git clone https://github.com/EASS-HIT-PART-A-2022-CLASS-II/ToDo_App.git
 ```
 
-2. Then go inside the Backend folder:
+2. Then go inside the ToDo_App folder:
 
 ```
-cd Backend
+cd ToDo_App
 ```
 
-3. Then to build an image, run the following command:
+3. To start the app, run the following command:
 
 ```
-docker build -t Backend .
+docker compose up
 ```
 
-4. Then to build a container, run the following command:
+4. The app is running, now all you have to do is to open your browser and type:
 
 ```
-docker run -p 8000:8000 Backend
-```
-
-5. The app is running, now all you have to do is to open your browser and type:
-
-```
-http://localhost:8000/
+http://localhost:3000/
 ```
 
 ## Technologies
